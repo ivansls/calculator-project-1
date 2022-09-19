@@ -1,0 +1,30 @@
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\проект.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\проект.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\проект.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\проект.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\bin\Debug\net6.0\проект.exe
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\bin\Debug\net6.0\проект.deps.json
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\bin\Debug\net6.0\проект.runtimeconfig.json
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\bin\Debug\net6.0\проект.dll
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\bin\Debug\net6.0\проект.pdb
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\проект.dll
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\refint\проект.dll
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\проект.pdb
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\проект.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\ШАРАГА\С#\проект\проект\obj\Debug\net6.0\ref\проект.dll
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\bin\Debug\net6.0\проект.exe
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\bin\Debug\net6.0\проект.deps.json
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\bin\Debug\net6.0\проект.runtimeconfig.json
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\bin\Debug\net6.0\проект.dll
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\bin\Debug\net6.0\проект.pdb
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\проект.csproj.AssemblyReference.cache
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\проект.AssemblyInfoInputs.cache
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\проект.AssemblyInfo.cs
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\проект.csproj.CoreCompileInputs.cache
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\проект.dll
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\refint\проект.dll
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\проект.pdb
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\проект.genruntimeconfig.cache
+C:\Users\vanya\Desktop\ШАРАГА (1)\С#\проект\проект\obj\Debug\net6.0\ref\проект.dll
